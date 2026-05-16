@@ -1,0 +1,17 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+pydantic
+
+# AI Models & APIs
+huggingface-hub
+google-generativeai
+
+# Speech-to-Text (ASR)
+faster-whisper
+
+# Browser Automation
+playwright
+
+# Environment Variable Management
+python-dotenv
